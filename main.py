@@ -8,7 +8,7 @@ import time
 # Constants
 GAME_ON = True
 BRICK_ROWS = 2
-BRICK_PER_ROW = 5
+BRICK_PER_ROW = 14
 
 # Screen configuration
 screen = Screen()
